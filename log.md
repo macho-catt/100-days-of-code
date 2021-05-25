@@ -20,9 +20,11 @@
 ##  ##  ##  ##  ##  ##  ##
 *******Useful Links*******
 [Harvard's CS50](https://cs50.harvard.edu/x/2021/)
+
 [freeCodeCamp](https://www.freecodecamp.org/learn/)
-[Sample link](http://www.example.com)
+
 [Full Stack Open](https://fullstackopen.com/en/)
+
 [The Modern JavaScript Tutorial](https://javascript.info/)
 ##  ##  ##  ##  ##  ##  ##
 **************************
