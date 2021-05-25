@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 20, 2021 - May 24, 2021
+#####
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Month's Progress**: Finished Harvard's CS50 online course, learned GitHub basics, started working on fcc certifications and currently working on the front end library cert. Started learning react by following facebook's tic-tac-toe tutorial. Then started going through fullstackopen's react courses (finished part 1). Also started reading The Modern JavaScript Tutorial on the side to supplement my coding. Finally, I started 100 Days of Code.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I started 100 Days of Code to log my progress and keep myself accountable. However, I actually started my journey last month on 4/20/2021. So far, I have coded at least 1-2 hours a day.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: May 25 2021 
+#####
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:**
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Sample link](http://www.example.com)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+##  ##  ##  ##  ##  ##  ##
+*******Useful Links*******
+[Harvard's CS50](https://cs50.harvard.edu/x/2021/)
+[freeCodeCamp](https://www.freecodecamp.org/learn/)
+[Sample link](http://www.example.com)
+[Full Stack Open](https://fullstackopen.com/en/)
+[The Modern JavaScript Tutorial](https://javascript.info/)
+##  ##  ##  ##  ##  ##  ##
+**************************
