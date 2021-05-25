@@ -18,7 +18,7 @@
 
 
 ##  ##  ##  ##  ##  ##  ##
-*******Useful Links*******
+**Useful Links**
 
 [Harvard's CS50](https://cs50.harvard.edu/x/2021/)
 
@@ -28,4 +28,3 @@
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 ##  ##  ##  ##  ##  ##  ##
-**************************
