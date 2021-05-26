@@ -10,9 +10,11 @@
 ### Day 1: May 25 2021 
 #####
 
-**Today's Progress**:
+**Today's Progress**: Started on part2 of fullstackopen and finished section a. Also re-arranged my github repos.
 
-**Thoughts:**
+**Thoughts:** I had a lot of syntax trouble with the exercise for part 2 section a. Mostly because the notation gets confusing when you have a multi-depth object or array (or both). I also didn't realize that when you use map (or any array function) and return the array in the render section, the top level arrays need to have identifying keys. I thought lists only needed keys. This got even more complicated when you write each list as a component. So then you need to assign a key to the component, and not the list it creates. Anyway, I finished section b and got to the exercise section and decided to call it a day. 
+
+I have a flight in two days to go home, so I've been deciding which coding activity I should save offline. I haven't formulated a plan yet, but I'm leaning towards finishing the fcc front end lesons tomorrow so I can work on the projects during the flight. I might also save some algorithm exercises, and maybe save the react exercises from full stack open.
 
 **Link to work:** [Sample link](http://www.example.com)
 
