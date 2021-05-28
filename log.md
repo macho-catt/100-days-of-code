@@ -5,7 +5,7 @@
 
 **Month's Progress**: Finished Harvard's CS50 online course, learned GitHub basics, started working on fcc certifications and currently working on the front end library cert. Started learning react by following facebook's tic-tac-toe tutorial. Then started going through fullstackopen's react courses (finished part 1). Also started reading The Modern JavaScript Tutorial on the side to supplement my coding. Finally, I started 100 Days of Code.
 
-**Thoughts:** I started 100 Days of Code to log my progress and keep myself accountable. However, I actually started my journey last month on 4/20/2021. So far, I have coded at least 2 hours a day.
+**Thoughts:** I started 100 Days of Code to log my progress and keep myself accountable. However, I actually started my journey last month on 4/20/2021. So far, I have coded at least 2 hours a day. I hope to keep this up!
 
 ### Day 1: May 25, 2021 
 #####
@@ -23,7 +23,18 @@ I have a flight in two days to go home, so I've been deciding which coding activ
 
 **Thoughts:** I only had enough time today to finish the exercises for part2 section b. I'm still not used to setting up event handlers and states with hooks, but I think I'm getting the hang of it. I also prepared some things to work on during my flight tomorrow, like the rest of part2 plus some fcc exercises.
 
-**Link to work:** [Sample link](http://www.example.com)
+### Day 3: May 27, 2021 
+#####
+
+**Today's Progress**: Finished part2 section c and halfway through section d. Finished the first exercise of part2 section c. Finished fcc's redux lessons. Worked on fcc's project euler coding challenges.
+
+**Thoughts:** Today was mostly travel. I finished the redux lesson on fcc, which is interesting considering I'm doing more exercises specifically on just react with fullstackopen. It will be interesting to see how those two work together. During the flight, I was working on the smallest multiple challenge for project euler. I didn't realize my VScode was out of date, so I couldn't launch the debugger during the flight. I had to stop working on the challenge because I couldn't debug properly. Instead, I went through fullstackopen and finished what I can. Interestingly, the section went over promises, which I just read about a couple days ago from the Modern Javascript Tutorial, so I was able to follow along.
+
+I also found an HTML/CSS lesson online that is free: Interneting is hard. It looks very elegant and well made, so I might start reading that as well to practice my HTML/CSS skills, which is severely lacking compared to everything else.
+
+Since today was mostly travel and catching up with my family, I might revisit some of the things I learned today just so I remember them.
+
+**Link to work:** [Interneting is hard](https://www.internetingishard.com/)
 
 
 ##  ##  ##  ##  ##  ##  ##
@@ -36,4 +47,6 @@ I have a flight in two days to go home, so I've been deciding which coding activ
 [Full Stack Open](https://fullstackopen.com/en/)
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
+
+[Interneting is hard](https://www.internetingishard.com/)
 ##  ##  ##  ##  ##  ##  ##
