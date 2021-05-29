@@ -36,6 +36,13 @@ Since today was mostly travel and catching up with my family, I might revisit so
 
 **Link to work:** [Interneting is hard](https://www.internetingishard.com/)
 
+### Day 4: May 28, 2021 
+#####
+
+**Today's Progress**: Finished all of part2 section c's exercises in fullstackopen. Finished all of part2 section d.
+
+**Thoughts:** I went back and read over all of section c and d again just so I can retain the information. Then, I finished the last half of section c's exercise, which involved making API GET requests from third party websites. It was pretty cool getting data from another source and having it show up in something that you're working on. I also finished section d, which featured more RESTful API requests.
+
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
