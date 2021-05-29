@@ -34,7 +34,7 @@ I also found an HTML/CSS lesson online that is free: Interneting is hard. It loo
 
 Since today was mostly travel and catching up with my family, I might revisit some of the things I learned today just so I remember them.
 
-**Link to work:** [Interneting is hard](https://www.internetingishard.com/)
+**Link to website:** [Interneting is hard](https://www.internetingishard.com/)
 
 ### Day 4: May 28, 2021 
 #####
