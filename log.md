@@ -16,6 +16,8 @@
 
 I have a flight in two days to go home, so I've been deciding which coding activity I should save offline. I haven't formulated a plan yet, but I'm leaning towards finishing the fcc front end lesons tomorrow so I can work on the projects during the flight. I might also save some algorithm exercises, and maybe save the react exercises from full stack open.
 
+**Link to website:** [Full Stack Open](https://fullstackopen.com/en/)
+
 ### Day 2: May 26, 2021 
 #####
 
