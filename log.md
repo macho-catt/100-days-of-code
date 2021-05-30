@@ -45,6 +45,19 @@ Since today was mostly travel and catching up with my family, I might revisit so
 
 **Thoughts:** I went back and read over all of section c and d again just so I can retain the information. Then, I finished the last half of section c's exercise, which involved making API GET requests from third party websites. It was pretty cool getting data from another source and having it show up in something that you're working on. I also finished section d, which featured more RESTful API requests.
 
+### Day 5: May 29, 2021 
+#####
+
+**Today's Progress**: Finished full stack open's part 2 completely. Finished React and Redux section on FCC. Started on frontend projects on FCC.
+
+**Thoughts:** I finished part 2 of full stack open, and I'm glad I did so. I learned the basics of React, and with the exercises I followed I was able to even make API requests from other sites to render data onto the browser. I also finished the Redux + React and Redux section on FCC; however, I still don't fully understand how Redux works, nor how I can incorporate it with React. I might have to wait until full stack open introduces Redux before I can understand it. It also does not help that FCC uses classes for React, while full stack open uses hooks. I find the hooks method for using React much easier though.
+
+I started working on the random quote generator using React (I'm excluding Redux for now and will refactor later once I understand it). At first I was trying to set a state for an array of quotes, and another state for the current quote. The current quote will initially get a value from the array of quotes. However, I kept getting errors and could not get the current quote state to work. Apparently, since React does not immediately update a component's state and usually does it in batches, the current quote state gets a null value. So after the initial render I made the component render a random quote without setting the current quote state, then set the state with a button click instead. This ensures that on the initial render, React does not render a state that is undefined.
+
+I also tried to look for a website that provides quotes via API requests, but most of them only offer a couple of requests per hour so the quote machine will only work for a couple of clicks. Instead, I found a database of quotes from this guy: https://github.com/JamesFT. Shoutout to him.
+
+**Link to database of quotes:** [Quotes](https://github.com/JamesFT/Database-Quotes-JSON/blob/master/quotes.json)
+
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
