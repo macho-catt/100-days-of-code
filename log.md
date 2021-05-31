@@ -58,6 +58,13 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Link to database of quotes:** [Quotes](https://github.com/JamesFT/Database-Quotes-JSON/blob/master/quotes.json)
 
+### Day 6: May 30, 2021 
+#####
+
+**Today's Progress**: Finished styling the random quote machine project. Started the javascript calculator project.
+
+**Thoughts:** Today I mostly did html/css to style the projects. Since I don't usually write HTML or CSS, I figured I would put a good amount of effort on this part instead of just fulfilling the user stories. I finished styling the random quote machine, although I had some trouble setting up the animations keyframe because of one syntax error. After I figured that out, I was able to make it work. I'm pretty happy on how it looks right now, although I might revisit it in the future. I started working on the calculator project, and I mostly worked on the calculator's styling. I used flexbox and grid on the projects today, and it's interesting to see the difference between the two.
+
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
