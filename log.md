@@ -65,6 +65,12 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** Today I mostly did html/css to style the projects. Since I don't usually write HTML or CSS, I figured I would put a good amount of effort on this part instead of just fulfilling the user stories. I finished styling the random quote machine, although I had some trouble setting up the animations keyframe because of one syntax error. After I figured that out, I was able to make it work. I'm pretty happy on how it looks right now, although I might revisit it in the future. I started working on the calculator project, and I mostly worked on the calculator's styling. I used flexbox and grid on the projects today, and it's interesting to see the difference between the two.
 
+### Day 7: May 31, 2021 
+#####
+
+**Today's Progress**: Worked on the calculator project.
+
+**Thoughts:** I worked on the calculator proejct for a little bit. I spent most of the day celebrating the holiday with my family so I couldn't code much. Tomorrow is my flight home, so I'll have enough time working on the calculator project (and potentially finishing it). I also have more coding exercises to do to fill up time.
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
