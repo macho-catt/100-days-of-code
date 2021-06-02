@@ -72,6 +72,13 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** I worked on the calculator proejct for a little bit. I spent most of the day celebrating the holiday with my family so I couldn't code much. Tomorrow is my flight home, so I'll have enough time working on the calculator project (and potentially finishing it). I also have more coding exercises to do to fill up time.
 
+### Day 8: June 1, 2021 
+#####
+
+**Today's Progress**: Almost done on the calculator project.
+
+**Thoughts:** Most of the day was spent travelling and sleeping to recover from the flight. I did work on the calculator project though, and I'm almost done with it. The only missing functionality is dealing with negative numbers and changing the operator correctly (i.e. user clicks divide, then changes mind and clicks plus to add instead).
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
