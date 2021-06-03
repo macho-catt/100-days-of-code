@@ -79,6 +79,14 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** Most of the day was spent travelling and sleeping to recover from the flight. I did work on the calculator project though, and I'm almost done with it. The only missing functionality is dealing with negative numbers and changing the operator correctly (i.e. user clicks divide, then changes mind and clicks plus to add instead).
 
+### Day 9: June 2, 2021 
+#####
+
+**Today's Progress**: Finished the calculator project.
+
+**Thoughts:** I'm pretty happy with what I ended up with in the calculator project. It deals with normal operations, and it also deals with negative number operations. It also allows to change the current operator if you choose a different one. The code itself has a lot of conditionals and switch statements, and I tried to refactor the code so there's minimal duplications, but I'm sure there's more I can improve upon. Dealing with the minus operator was complicated than it initially seemed, since you have to decide if you're dealing with a subtraction, or a negative integer. I think I figured it out, and it runs properly.
+
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
