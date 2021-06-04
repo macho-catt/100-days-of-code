@@ -86,6 +86,13 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** I'm pretty happy with what I ended up with in the calculator project. It deals with normal operations, and it also deals with negative number operations. It also allows to change the current operator if you choose a different one. The code itself has a lot of conditionals and switch statements, and I tried to refactor the code so there's minimal duplications, but I'm sure there's more I can improve upon. Dealing with the minus operator was complicated than it initially seemed, since you have to decide if you're dealing with a subtraction, or a negative integer. I think I figured it out, and it runs properly.
 
+### Day 10: June 3, 2021 
+#####
+
+**Today's Progress**: Started 25+5 clock project.
+
+**Thoughts:** I started working on the 25+5 clock project on fcc. I finished the styling (although I might come back to make it prettier later) and structured the components. I'm still thinking on how I will design the countdown state. Currently I'm getting sidetracked with some twitch content, but I'm still getting at least 2-3 hours a day of coding practice.
+
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
