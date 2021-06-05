@@ -93,6 +93,12 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** I started working on the 25+5 clock project on fcc. I finished the styling (although I might come back to make it prettier later) and structured the components. I'm still thinking on how I will design the countdown state. Currently I'm getting sidetracked with some twitch content, but I'm still getting at least 2-3 hours a day of coding practice.
 
+### Day 11: June 4, 2021 
+#####
+
+**Today's Progress**: Worked on 25+5 clock project but got stuck.
+
+**Thoughts:** I worked on the clock project, and got a coundown timer that works. However, when you hit pause it takes a full second before it takes it, so the app renders one more time and decrements the timer by 1 (instead of pausing immediately on click). I couldn't figure out a way to fix that so I went back to the drawing board and started reading about different ways of implementing a solution. The solutions I found online made sense, but mostly featured manipulating the Date object (which was complicated in it's own right) so I had to take a step back. I might need to revisit this tomorrow when I have more time so I can read and understand different solutions (instead of copy + pasting and not retaining).
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
