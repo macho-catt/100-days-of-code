@@ -100,6 +100,13 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** I worked on the clock project, and got a coundown timer that works. However, when you hit pause it takes a full second before it takes it, so the app renders one more time and decrements the timer by 1 (instead of pausing immediately on click). I couldn't figure out a way to fix that so I went back to the drawing board and started reading about different ways of implementing a solution. The solutions I found online made sense, but mostly featured manipulating the Date object (which was complicated in it's own right) so I had to take a step back. I might need to revisit this tomorrow when I have more time so I can read and understand different solutions (instead of copy + pasting and not retaining).
 
+### Day 13: June 6, 2021 
+#####
+
+**Today's Progress**: Finished 25+5 clock project
+
+**Thoughts:** I decided to take the day off yesterday because I had a long day at work and I celebrated my girlfriend's birthday. I also wanted to take a break from the project because I was stuck on it and couldn't make any progress. I revisited it today and instead of working on the countdown timer first, I worked on the other components. Afterwards, I realized that I don't have to use the date object nor do I have to separate the minutes and seconds states from each other. Instead, I can use the seconds state on its own and just derive both the minutes and seconds from it. I was able to work through the project easily after realizing that fact. I guess taking the day off helped reset my thinking.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
