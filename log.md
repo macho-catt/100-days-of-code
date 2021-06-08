@@ -107,6 +107,13 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** I decided to take the day off yesterday because I had a long day at work and I celebrated my girlfriend's birthday. I also wanted to take a break from the project because I was stuck on it and couldn't make any progress. I revisited it today and instead of working on the countdown timer first, I worked on the other components. Afterwards, I realized that I don't have to use the date object nor do I have to separate the minutes and seconds states from each other. Instead, I can use the seconds state on its own and just derive both the minutes and seconds from it. I was able to work through the project easily after realizing that fact. I guess taking the day off helped reset my thinking.
 
+### Day 14: June 7, 2021 
+#####
+
+**Today's Progress**: Started drum machine project
+
+**Thoughts:** I started the drum machine project. I mostly worked on the html/css portion of it today. I am trying to take my time on each of these projects and actually make the html/css presentable. They are not responsive right now, but at some point in the future I want to go back and fix that. Hopefully I'm not taking too much time on these projects though. I expect to finish this and the last project for fcc frontend this week, so I can start on the next part of fcc. I want to tackle fullstackopen's backend portion at the same time as fcc's backend portion.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
