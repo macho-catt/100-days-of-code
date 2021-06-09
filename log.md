@@ -114,6 +114,13 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** I started the drum machine project. I mostly worked on the html/css portion of it today. I am trying to take my time on each of these projects and actually make the html/css presentable. They are not responsive right now, but at some point in the future I want to go back and fix that. Hopefully I'm not taking too much time on these projects though. I expect to finish this and the last project for fcc frontend this week, so I can start on the next part of fcc. I want to tackle fullstackopen's backend portion at the same time as fcc's backend portion.
 
+### Day 15: June 8, 2021 
+#####
+
+**Today's Progress**: Worked on drum machine
+
+**Thoughts:** Mostly done with the drum machine project. I just need to add a css change on the drum pads when pressed, and to add the volume slider component. It seems that for a lot of these projects, constructing the HTML and CSS takes a lot of time. I might need to incorporate SCSS soon to make my life easier.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
