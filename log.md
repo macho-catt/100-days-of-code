@@ -121,6 +121,17 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 **Thoughts:** Mostly done with the drum machine project. I just need to add a css change on the drum pads when pressed, and to add the volume slider component. It seems that for a lot of these projects, constructing the HTML and CSS takes a lot of time. I might need to incorporate SCSS soon to make my life easier.
 
+### Day 16: June 9, 2021 
+#####
+
+**Today's Progress**: Finished drum machine
+
+**Thoughts:** Finished the drum machine project. I incorporated keyboard events, changing the style of the buttons when clicked, and adjusting the volume via the volume-slider component. Incorporating the keyboard events was interesting, because I needed to set up event listeners on first render. However, since I was using the state for power to decide if a button click should play an audio, it was taking the initial state of the power and not changing it. At first I tried to make useEffect depend on the power state; however, that would mean the event listeners would be setup each time the power state changes. So I used useRef to keep track of power, and used that in my conditional so that I can keep track of the state without having to trigger a new render. I also used useRef for changing the styles on button press, to prevent multiple renders on consecutive button presses. Before when I used useRef in the clock project, I didn't really understand it fully. But now, I think I have a better grasp for its use case.
+
+Shoutout to the guy who created the audio files I used for the project. I will link his work below.
+
+**Link to database of quotes:** [Audio](https://sampleswap.org/)
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
