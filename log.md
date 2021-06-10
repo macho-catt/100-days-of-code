@@ -130,7 +130,7 @@ I also tried to look for a website that provides quotes via API requests, but mo
 
 Shoutout to the guy who created the audio files I used for the project. I will link his work below.
 
-**Link to database of quotes:** [Audio](https://sampleswap.org/)
+**Link to database of quotes:** [Audio](https://99sounds.org/drum-samples/)
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
