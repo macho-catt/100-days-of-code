@@ -132,6 +132,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Link to database of quotes:** [Audio](https://99sounds.org/drum-samples/)
 
+### Day 17: June 10, 2021 
+#####
+
+**Today's Progress**: Finished data visualization lessons on fcc
+
+**Thoughts:** I wanted to take a light day, particularly because I'm going on a weekend trip starting tomorrow to Big Bear. I went over the data visualization section of fcc and finished D3 as well as Ajax. Interestingly, since I learned about API requests on fullstackopen before, I understood the Ajax section. However, after getting used to the react structure, working on plain js was painful. D3 was interesting as well, and I'm excited to do some projects with it.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
