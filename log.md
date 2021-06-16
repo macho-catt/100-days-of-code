@@ -139,6 +139,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** I wanted to take a light day, particularly because I'm going on a weekend trip starting tomorrow to Big Bear. I went over the data visualization section of fcc and finished D3 as well as Ajax. Interestingly, since I learned about API requests on fullstackopen before, I understood the Ajax section. However, after getting used to the react structure, working on plain js was painful. D3 was interesting as well, and I'm excited to do some projects with it.
 
+### Day 22: June 15, 2021
+#####
+
+**Today's Progress**: Got back from vacation, started tictactoe project
+
+**Thoughts:** I got back from big bear yesterday, and I decided to take most of the vacation as a break from coding (which was much needed). I did a little bit during vacation, and I started creating a tictactoe game. I found the other fcc project (Markdown Previewer) a little uninteresting so I decided to do tictactoe instead. I need to get back into the rhythm this week. I've been coding for almost two months now (one month of 100 days of code) and a month ago I didn't know React. Now, I've made four react projects without following any tutorials, and all projects have pretty decent CSS. Not only that, but I had to take two weekends as vacations, and I still had pretty good progress. My goal for this month is to use D3 with react and learn some backend.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
