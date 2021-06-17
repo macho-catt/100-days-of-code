@@ -146,6 +146,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** I got back from big bear yesterday, and I decided to take most of the vacation as a break from coding (which was much needed). I did a little bit during vacation, and I started creating a tictactoe game. I found the other fcc project (Markdown Previewer) a little uninteresting so I decided to do tictactoe instead. I need to get back into the rhythm this week. I've been coding for almost two months now (one month of 100 days of code) and a month ago I didn't know React. Now, I've made four react projects without following any tutorials, and all projects have pretty decent CSS. Not only that, but I had to take two weekends as vacations, and I still had pretty good progress. My goal for this month is to use D3 with react and learn some backend.
 
+### Day 23: June 16, 2021
+#####
+
+**Today's Progress**: Finished tictactoe, started part3 of fullstackopen
+
+**Thoughts:** I finished the tictactoe project. Once I figured out how to find the winner, the rest of the project came easily. I decided to skip the D3 projects for now (will come back to them later) and start learning about the backend. I started on fso part3, which teaches node and express. Once I finish this section, I will go over fcc lessons on backend and the projects.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
