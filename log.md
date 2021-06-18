@@ -153,6 +153,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** I finished the tictactoe project. Once I figured out how to find the winner, the rest of the project came easily. I decided to skip the D3 projects for now (will come back to them later) and start learning about the backend. I started on fso part3, which teaches node and express. Once I finish this section, I will go over fcc lessons on backend and the projects.
 
+### Day 24: June 17, 2021
+#####
+
+**Today's Progress**: Finished part3-a of fso, started part3-b
+
+**Thoughts:** Finished part3-a of fso and started part b. It's interesting to see how node and express handle the backend, compared to flask in python. When I started b, I had some problems locating my previous code in my github repo. I realized at this point that my repository directories need to be reconfigured (both for fcc and react stuff), so I started moving fcc projects into their own repositories. I might need to fix this before continuing with part b, just so I won't have problems with it later on.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
