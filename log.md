@@ -160,6 +160,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** Finished part3-a of fso and started part b. It's interesting to see how node and express handle the backend, compared to flask in python. When I started b, I had some problems locating my previous code in my github repo. I realized at this point that my repository directories need to be reconfigured (both for fcc and react stuff), so I started moving fcc projects into their own repositories. I might need to fix this before continuing with part b, just so I won't have problems with it later on.
 
+### Day 25: June 18, 2021
+#####
+
+**Today's Progress**: Learned how to deploy an app to Heroku. Finished part3-b of fso; working on exercises
+
+**Thoughts:** Finished section b of part 3 (excluding the exercises at the end), which is mostly a tutorial on deploying an app to heroku, deploying the backend, creating a frontend build and copying that inside the backend directory, creating shortcut scripts on package.json, and creating a proxy for the frontend code. I also continued fixing my github repos, and realized how much of a pain it would be to continue if I had left it in that state. It's best to put each projects on their own repo, instead of having them in the same one. I ran into a problem with heroku because of that, so I will continue fixing the repo situation tomorrow.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
