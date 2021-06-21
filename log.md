@@ -167,6 +167,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** Finished section b of part 3 (excluding the exercises at the end), which is mostly a tutorial on deploying an app to heroku, deploying the backend, creating a frontend build and copying that inside the backend directory, creating shortcut scripts on package.json, and creating a proxy for the frontend code. I also continued fixing my github repos, and realized how much of a pain it would be to continue if I had left it in that state. It's best to put each projects on their own repo, instead of having them in the same one. I ran into a problem with heroku because of that, so I will continue fixing the repo situation tomorrow.
 
+### Day 26: June 20, 2021
+#####
+
+**Today's Progress**: Learned how to deploy MongoDB using Atlas, finished all of fso part 3
+
+**Thoughts:** I didn't get much done yesterday other than fixing the github repos. Today, I finished all of fso part 3. It's interesting to see how MongoDB works and how different it is from MSQL (which is what I'm generally used to). It's also cool finally knowing the basics of a fullstack application, although there are still more to learn. I still have one problem with displaying a default error message returned by Mongoose to the frontend, and I wasn't able to figure that out. Maybe tomorrow I'll figure it out.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
