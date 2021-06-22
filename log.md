@@ -174,6 +174,13 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** I didn't get much done yesterday other than fixing the github repos. Today, I finished all of fso part 3. It's interesting to see how MongoDB works and how different it is from MSQL (which is what I'm generally used to). It's also cool finally knowing the basics of a fullstack application, although there are still more to learn. I still have one problem with displaying a default error message returned by Mongoose to the frontend, and I wasn't able to figure that out. Maybe tomorrow I'll figure it out.
 
+### Day 27: June 21, 2021
+#####
+
+**Today's Progress**: Finished fcc: APIs and Microservices section
+
+**Thoughts:** I powered through the APIs and Microservices section on FCC. However, most of the lessons were already covered in fso. FCC feels like supplementary material that cements the ideas behind fso. However, a lot of the things in FCC feel very outdated. For example, their react section used class components and never went over hooks. Now, I saw some older ideas with the mongoDB lesson. Additionally, the projects for APIs and Microservices are not very interesting, so I might have to look for some that interest me. I might also just power through fso since I learn more from there anyway.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
