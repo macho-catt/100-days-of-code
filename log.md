@@ -181,6 +181,15 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** I powered through the APIs and Microservices section on FCC. However, most of the lessons were already covered in fso. FCC feels like supplementary material that cements the ideas behind fso. However, a lot of the things in FCC feel very outdated. For example, their react section used class components and never went over hooks. Now, I saw some older ideas with the mongoDB lesson. Additionally, the projects for APIs and Microservices are not very interesting, so I might have to look for some that interest me. I might also just power through fso since I learn more from there anyway.
 
+### Day 29: June 23, 2021
+#####
+
+**Today's Progress**: Joined hackforla info session yesterday, joined hackforla CoP meeting today, started fso part 4, learned jest
+
+**Thoughts:** I didn't update the log yesterday because I was exhausted from work, but I joined an info session about joining hackforla. I also started fso part 4 yesterday, and continued working on section a today, which involved restructuring the directory structure of node projects. I also learned about the basics of testing node apps with jest.
+
+I am excited to join hackforla to learn how to work in a team environment. I decided to join the hackforla website team, since that's the recommended team for beginners like myself. I also looked at other teams, particularly the ones working with react, but I was hesitant in joining those projects since I'm still inexperienced. I also felt a little anxiety in joining hackforla in general since I don't know if I'm ready yet. Still, I know I should join to help my development. My plan is to first gain enough experience in the website project, tehn look for a react team to develop my react skills, and finally look for a team that will let me do some backend work. I'm hoping for the best!
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
