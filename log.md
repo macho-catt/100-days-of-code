@@ -188,7 +188,16 @@ Shoutout to the guy who created the audio files I used for the project. I will l
 
 **Thoughts:** I didn't update the log yesterday because I was exhausted from work, but I joined an info session about joining hackforla. I also started fso part 4 yesterday, and continued working on section a today, which involved restructuring the directory structure of node projects. I also learned about the basics of testing node apps with jest.
 
-I am excited to join hackforla to learn how to work in a team environment. I decided to join the hackforla website team, since that's the recommended team for beginners like myself. I also looked at other teams, particularly the ones working with react, but I was hesitant in joining those projects since I'm still inexperienced. I also felt a little anxiety in joining hackforla in general since I don't know if I'm ready yet. Still, I know I should join to help my development. My plan is to first gain enough experience in the website project, tehn look for a react team to develop my react skills, and finally look for a team that will let me do some backend work. I'm hoping for the best!
+I am excited to join hackforla to learn how to work in a team environment. I decided to join the hackforla website team, since that's the recommended team for beginners like myself. I also looked at other teams, particularly the ones working with react, but I was hesitant in joining those projects since I'm still inexperienced. I also felt a little anxiety in joining hackforla in general since I don't know if I'm ready yet. Still, I know I should join to help my development. My plan is to first gain enough experience in the website project, then look for a react team to develop my react skills, and finally look for a team that will let me do some backend work. I'm hoping for the best!
+
+### Day 32: June 26, 2021
+#####
+
+**Today's Progress**: finished fso part4 section b, learned more testing cases and refactoring promises to use async/await
+
+**Thoughts:** I didn't update the log again, which I'm really slacking on. I coded the past three days though, slowly going over part 4 sections a and b since they were pretty dense. A lot of refactoring code, and learning about setting up tests. I definitely need to pick up the slack though, since I haven't been coding as much as I want to.
+
+I will postpone sections c and d of fso part 4, and do some fcc backend projects first to solidify my knowledge on the basics.
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
