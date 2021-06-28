@@ -199,6 +199,15 @@ I am excited to join hackforla to learn how to work in a team environment. I dec
 
 I will postpone sections c and d of fso part 4, and do some fcc backend projects first to solidify my knowledge on the basics.
 
+### Day 33: June 27, 2021
+#####
+
+**Today's Progress**: started fcc microservice projects, set up wsl2 on my pc, attended hackforla-website zoom meeting
+
+**Thoughts:** I had a meeting today with the project team I am joining in hackforla. Mostly a lot of introductory stuff and setting up my environment. I need to review the site architecture to become more familiar. I looked at it once before, but it's definitely a lot to unpack.
+
+I also started some of the shorter fcc projects related to microservices. Instead of making individual ones, I lumped two into one site. I finished the timestamp microservice and request header parser microservice. I didn't write any tests though, so I might write some simple ones tomorrow. I might also incorporate two more microservices.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
