@@ -209,6 +209,17 @@ I will postpone sections c and d of fso part 4, and do some fcc backend projects
 I also started some of the shorter fcc projects related to microservices. Instead of making individual ones, I lumped two into one site. I finished the timestamp microservice and request header parser microservice. I didn't write any tests though, so I might write some simple ones tomorrow. I might also incorporate two more microservices.
 
 ##  ##  ##  ##  ##  ##  ##
+
+### Day 35: June 29, 2021
+#####
+
+**Today's Progress**: attended hackforla meeting, made my first pull request in github for hackforla website
+
+**Thoughts:** Yesterday I didn't have time to code because of RL stuff. Today, however, I made my first pull request on github! I kind of missed the instruction of not putting a screenshot of the code, but otherwise I kind of know the process of making a pull request.
+
+Other than that, the meeting kind of took a lot of energy from me so I probably will not do some code until tomorrow.
+
+##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
 [Harvard's CS50](https://cs50.harvard.edu/x/2021/)
