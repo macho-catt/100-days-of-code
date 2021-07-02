@@ -225,6 +225,17 @@ Other than that, the meeting kind of took a lot of energy from me so I probably 
 **Thoughts:** My pull request from yesterday got approved and merged, so that's exciting. I also started the twitch-json-api project from fcc. However, as I was trying to implement the API request, I kept running into some issues. Apparently, twitch changed their policy recently so you need to acquire tokens through OAuth. I can't figure out how to make this work, and the farthest I've gone is getting a CORS error. I wonder if I need to switch my api request code from frontend to backend. Another annoying thing is that all guides I could find about implementing the api with react were made before twitch changed their policy, and therefore outdated. None of them work anymore. If I can't figure it out tomorrow, I may have to pivot to something else for the time being.
 
 ##  ##  ##  ##  ##  ##  ##
+
+### Day 37: July 1, 2021
+#####
+
+**Today's Progress**: set up my xps 15 to dual boot ubuntu and windows, continued working on twitch api project
+
+**Thoughts:** I ordered a 1TB ssd and intel 9260 wifi card to upgrade my laptop. Previously it had a 512 GB ssd and a killer wifi card, which is notorious for not playing well with ubuntu installs. So most of my day consisted of replacing the parts in my laptop, making it dual boot ubuntu, and setting up my environment. I also got distracted with installing some bells and whistles for my laptop. Overall, I like it.
+
+I also was able to figure out the OAuth problem I had yesterday. I moved the code to the backend, and installed cors as a dependcy. The get request was now able to receive something legit back from twitch. Now I need to figure out how to actually get back a list of streamers from an API request.
+
+##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
 [Harvard's CS50](https://cs50.harvard.edu/x/2021/)
