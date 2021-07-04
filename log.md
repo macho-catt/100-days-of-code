@@ -224,8 +224,6 @@ Other than that, the meeting kind of took a lot of energy from me so I probably 
 
 **Thoughts:** My pull request from yesterday got approved and merged, so that's exciting. I also started the twitch-json-api project from fcc. However, as I was trying to implement the API request, I kept running into some issues. Apparently, twitch changed their policy recently so you need to acquire tokens through OAuth. I can't figure out how to make this work, and the farthest I've gone is getting a CORS error. I wonder if I need to switch my api request code from frontend to backend. Another annoying thing is that all guides I could find about implementing the api with react were made before twitch changed their policy, and therefore outdated. None of them work anymore. If I can't figure it out tomorrow, I may have to pivot to something else for the time being.
 
-##  ##  ##  ##  ##  ##  ##
-
 ### Day 37: July 1, 2021
 #####
 
@@ -234,6 +232,24 @@ Other than that, the meeting kind of took a lot of energy from me so I probably 
 **Thoughts:** I ordered a 1TB ssd and intel 9260 wifi card to upgrade my laptop. Previously it had a 512 GB ssd and a killer wifi card, which is notorious for not playing well with ubuntu installs. So most of my day consisted of replacing the parts in my laptop, making it dual boot ubuntu, and setting up my environment. I also got distracted with installing some bells and whistles for my laptop. Overall, I like it.
 
 I also was able to figure out the OAuth problem I had yesterday. I moved the code to the backend, and installed cors as a dependcy. The get request was now able to receive something legit back from twitch. Now I need to figure out how to actually get back a list of streamers from an API request.
+
+### Day 38: July 2, 2021
+#####
+
+**Today's Progress**: figured out how to retrieve an authorization token from twitch, made my second PR for hackforla
+
+**Thoughts:** I finally figured out how to retrieve an authorization token from twitch. It took some diligent reading of the documentation and experimenting with the http request. My mistake was that I used a return line on the http request when I shouldn't have.
+
+I also made my second PR. I still need to get my head down on how the site architecture works, but I have a better understanding than before.
+
+### Day 39: July 3, 2021
+#####
+
+**Today's Progress**: used the auth token to finally make a request to query users from twitch
+
+**Thoughts:** I figured out how to use the auth token so I can make further API requests. I also made sure to make my node directory cleaner so that I don't have to worry about it later on. I also worked on the frontend, and for the most part the project works as it should based on the fcc user stories. I use the backend to make third party API requests to twitch, and the frontend uses that info to display the queried users and show if they are online, and if so, show their game.
+
+I still need to figure out how to store the token properly, so I can reuse it. Right now I'm making an auth token request every time I refresh, which is unneccessary. From what I've read, I could either store the toke in a cookie or local web storage. I guess that's more reading and research for tomorrow on how to do that. I can also still make the frontend look better, and add some testing for the backend. I am debating if I should add a database, but it seems excessive for a small project.
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
