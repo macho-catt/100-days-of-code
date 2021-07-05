@@ -251,6 +251,13 @@ I also made my second PR. I still need to get my head down on how the site archi
 
 I still need to figure out how to store the token properly, so I can reuse it. Right now I'm making an auth token request every time I refresh, which is unneccessary. From what I've read, I could either store the toke in a cookie or local web storage. I guess that's more reading and research for tomorrow on how to do that. I can also still make the frontend look better, and add some testing for the backend. I am debating if I should add a database, but it seems excessive for a small project.
 
+### Day 40: July 4, 2021
+#####
+
+**Today's Progress**: Happy July 4th! Made some css changes to make the frontend look better for the twitch-json-api project, attended hfla meeting and created two github issues
+
+**Thoughts:** Didn't get much done today other for the twitch-json-api project other than some css styling changes. It always amazes me how much time actually goes into just styling CSS. Other than that, I didn't get to look up how to properly save tokens. I also attended the hlfa meeting, and created my first (and second) github issues. I spent the rest of the day celebrating the holiday with some friends.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
