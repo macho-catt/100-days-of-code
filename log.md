@@ -258,6 +258,15 @@ I still need to figure out how to store the token properly, so I can reuse it. R
 
 **Thoughts:** Didn't get much done today other for the twitch-json-api project other than some css styling changes. It always amazes me how much time actually goes into just styling CSS. Other than that, I didn't get to look up how to properly save tokens. I also attended the hlfa meeting, and created my first (and second) github issues. I spent the rest of the day celebrating the holiday with some friends.
 
+### Day 42: July 6, 2021
+#####
+
+**Today's Progress**: Read ideas on how to store tokens, attended hfla meeting today
+
+**Thoughts:** Didn't really code for the past two days. I spent most of yesterday reading up on how to store tokens from Oauth, and the two solutions I thought of won't work perfectly. First of all, there are security issues to think of, so generally speaking using local or session storage is not a good idea unless I really secure it. HTTP cookies are secured much better, but there are still some work to do to secure them. Additionally, they need to be set up from the frontend side, not the backend, which is what I tried. That didn't work so I had to pivot. The other solution is to store it in a database, and I think that's the way to do it. But for the scope of this project it might be a little excessive (for now) until I add more features to it like user logins. I might pivot away from this project and work on something else first, like finishing fso part 4.
+
+I also attended the hfla meeting today, which took longer than expected. I need to do more coding for the rest of the week to make up for it.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
