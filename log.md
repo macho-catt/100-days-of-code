@@ -267,6 +267,13 @@ I still need to figure out how to store the token properly, so I can reuse it. R
 
 I also attended the hfla meeting today, which took longer than expected. I need to do more coding for the rest of the week to make up for it.
 
+### Day 43: July 7, 2021
+#####
+
+**Today's Progress**: Finished fso part 4 excluding the last exercises
+
+**Thoughts:** Just worked on fso part 4. I will work on the exercises tomorrow because it's pretty late. Sometimes it's hard to get the motivation to code. I'm almost halfway to 100 days, and I knew it wasn't going to be easy. I think part of it too is that I can't come up with a *unique* project idea. Initially I was going to add more features to the twitch project, but thinking about it I'm not that interested in adding more features to it than necessary.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
