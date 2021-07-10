@@ -275,6 +275,24 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 **Thoughts:** Just worked on fso part 4. I will work on the exercises tomorrow because it's pretty late. Sometimes it's hard to get the motivation to code. I'm almost halfway to 100 days, and I knew it wasn't going to be easy. I think part of it too is that I can't come up with a *unique* project idea. Initially I was going to add more features to the twitch project, but thinking about it I'm not that interested in adding more features to it than necessary.
 
 ##  ##  ##  ##  ##  ##  ##
+
+### Day 44: July 8, 2021
+#####
+
+**Today's Progress**: Finished fso part 4 exercises, attended hfla meeting
+
+**Thoughts:** My schedule for the next couple of days is different because I'm covering for my coworker's early morning shift. I finished the exercises for fso part 4. Most of it was refactoring code to make it cleaner, adding authorization using jwt tokens (interestingly, this is a subject matter I read about the past couple of days because of the twitch-json-api dilemma!), and fixing tests.
+
+### Day 45: July 9, 2021
+#####
+
+**Today's Progress**: Did my third PR for hfla, my first medium sized issue
+
+**Thoughts:** I did another PR for the hfla website. This time, I worked on a medium-sized issue. It was a CSS issue that involved media queries. I had to make sure that some page-cards looked consistent across two pages. It's interesting how CSS issues are simple yet always so time-consuming!
+
+##  ##  ##  ##  ##  ##  ##
+
+##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
 [Harvard's CS50](https://cs50.harvard.edu/x/2021/)
