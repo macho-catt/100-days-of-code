@@ -288,6 +288,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I did another PR for the hfla website. This time, I worked on a medium-sized issue. It was a CSS issue that involved media queries. I had to make sure that some page-cards looked consistent across two pages. It's interesting how CSS issues are simple yet always so time-consuming!
 
+### Day 47: July 11, 2021
+#####
+
+**Today's Progress**: Did a bunch of PR reviews for hfla, attended the meeting
+
+**Thoughts:** I learned the basics of doing pull request reviews, so I did that yesterday and today. I reviewed three PRs so far, but they were mostly first issues and small-sized issues. I can imagine PRs for bigger issues to take longer and more work. Other than that, I started with fso part 5, but got preoccupied with some real life stuff. I hope to get back on the grind this week.
+
 ##  ##  ##  ##  ##  ##  ##
 
 ##  ##  ##  ##  ##  ##  ##
