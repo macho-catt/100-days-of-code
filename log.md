@@ -295,6 +295,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I learned the basics of doing pull request reviews, so I did that yesterday and today. I reviewed three PRs so far, but they were mostly first issues and small-sized issues. I can imagine PRs for bigger issues to take longer and more work. Other than that, I started with fso part 5, but got preoccupied with some real life stuff. I hope to get back on the grind this week.
 
+### Day 48: July 12, 2021
+#####
+
+**Today's Progress**: Finished fso part 5 section a and exercises accompanying it, worked on hfla website
+
+**Thoughts:** I finished section a of part 5. It was mostly connecting the authorization for the frontend and backend. It's also getting to the point where the code for each are getting big, so I'm interested to see how the frontend code will be refactored (or if that will be part of future sections). I also worked on hfla for a little bit, and looked at an interesting bug involving an SVG where on initial render, the width is smaller than what is in the code. I think it's related to how chrome / edge render object tags, because changing the tag to img fixes it, but I'm not really sure why it's doing that.
+
 ##  ##  ##  ##  ##  ##  ##
 
 ##  ##  ##  ##  ##  ##  ##
