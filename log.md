@@ -302,6 +302,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I finished section a of part 5. It was mostly connecting the authorization for the frontend and backend. It's also getting to the point where the code for each are getting big, so I'm interested to see how the frontend code will be refactored (or if that will be part of future sections). I also worked on hfla for a little bit, and looked at an interesting bug involving an SVG where on initial render, the width is smaller than what is in the code. I think it's related to how chrome / edge render object tags, because changing the tag to img fixes it, but I'm not really sure why it's doing that.
 
+### Day 51: July 15, 2021
+#####
+
+**Today's Progress**: Did a bunch of work fixing and resolving merge conflicts with my PR for hfla
+
+**Thoughts:** I pretty much spent the last three days doing hfla stuff. I attended the Tuesday and Thursday meetings, and I reworked on my PR because I had to do some CSS refactoring for two pages so that a template used between the two could be used for future stuff. I also had to merge and resolve conflicts from a different PR. I knew that refactoring code was hard from my experience with my own stuff, but refactoring CSS on a bigger page where you have to be mindful of the future + other teammates is much more difficult. It was an interesting experience though, and I'm getting experience with SCSS as well.
+
 ##  ##  ##  ##  ##  ##  ##
 
 ##  ##  ##  ##  ##  ##  ##
