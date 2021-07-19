@@ -309,7 +309,20 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I pretty much spent the last three days doing hfla stuff. I attended the Tuesday and Thursday meetings, and I reworked on my PR because I had to do some CSS refactoring for two pages so that a template used between the two could be used for future stuff. I also had to merge and resolve conflicts from a different PR. I knew that refactoring code was hard from my experience with my own stuff, but refactoring CSS on a bigger page where you have to be mindful of the future + other teammates is much more difficult. It was an interesting experience though, and I'm getting experience with SCSS as well.
 
-##  ##  ##  ##  ##  ##  ##
+### Day 53: July 17, 2021
+#####
+
+**Today's Progress**: Did pair programming with a teammate from hfla, worked on fso part 5 section b
+
+**Thoughts:** I did a pair programming session with a teammate today. Mostly, we looked at a new page she was building for the site (404 error page) and we fixed some css and mobile query issues so that her page followed the design from the design team. I also started on section b of fso part 5.
+
+### Day 54: July 18, 2021
+#####
+
+**Today's Progress**: Finished fso part 5 section b and exercises, started on section c
+
+**Thoughts:** I finished section b and the exercises, which were mostly code refactoring on the front end. I then started on the next section, which introduced unit testing for react. This part is interesting and seems more complicated than the backend testing, since you have to check the functionality of each components and mock some events like button clicking and form submitting. I still have not written any tests for my projects though, and I am not looking forward to that for my future projects.
+
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
