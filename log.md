@@ -323,6 +323,12 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I finished section b and the exercises, which were mostly code refactoring on the front end. I then started on the next section, which introduced unit testing for react. This part is interesting and seems more complicated than the backend testing, since you have to check the functionality of each components and mock some events like button clicking and form submitting. I still have not written any tests for my projects though, and I am not looking forward to that for my future projects.
 
+### Day 55: July 19, 2021
+#####
+
+**Today's Progress**: Finished fso part 5 section c exercises, researched github API
+
+**Thoughts:** I finished section c exercises. I understood more about react testing with the exercises, although there are still a lot of things about it that I don't know about. I just know the basics of the basics. I also researched a bit on github API for a future hfla project, specifically getting the top collaborators on a repo based on the number of commits. I also looked at getting the comments / reviews on individual PRs. Using github api was much easier than understanding the twitch api. Or maybe I just got better at reading documentations.
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
