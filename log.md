@@ -330,6 +330,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I finished section c exercises. I understood more about react testing with the exercises, although there are still a lot of things about it that I don't know about. I just know the basics of the basics. I also researched a bit on github API for a future hfla project, specifically getting the top collaborators on a repo based on the number of commits. I also looked at getting the comments / reviews on individual PRs. Using github api was much easier than understanding the twitch api. Or maybe I just got better at reading documentations.
 
+### Day 56: July 20, 2021
+#####
+
+**Today's Progress**: Went through fso part 5 section d and learned about cypress, attended hfla meeting, did another PR for hfla
+
+**Thoughts:** I learned about cypress and end-to-end testing in the last section of part 5. I didn't go through the exercises yet, but if I were to rank the 3 testing libraries I learned (jest for backend, jest for frontend, and cypress) I would say cypress had the most straight forward syntax, then jest for backend, and finally jest for frontend. My last PR for hfla also got merged so I started a new one, which was easier and smaller than the last one.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
