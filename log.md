@@ -337,6 +337,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I learned about cypress and end-to-end testing in the last section of part 5. I didn't go through the exercises yet, but if I were to rank the 3 testing libraries I learned (jest for backend, jest for frontend, and cypress) I would say cypress had the most straight forward syntax, then jest for backend, and finally jest for frontend. My last PR for hfla also got merged so I started a new one, which was easier and smaller than the last one.
 
+### Day 57: July 21, 2021
+#####
+
+**Today's Progress**: PR got merged, started a new PR for hfla
+
+**Thoughts:** My PR got merged immediately. Wooh! I picked up another one that involved styling with grid and flex. However, I'm unhappy with the initial result that I came up with. In my CSS grid, I have a header that takes up the entire first row. Because of that, the second row of items sit aligned to the left (instead of centered) because of how grid works. There's not enough items on the second row as well, and it'll look better centered, so I need to do some manipulations on it. Probably make that specific section flex. I don't know yet, I've been sitting on this particular issue and messing with it and nothing has worked to my liking. I might take a step back for now and look at it again tomorrow.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
