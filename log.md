@@ -344,6 +344,15 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** My PR got merged immediately. Wooh! I picked up another one that involved styling with grid and flex. However, I'm unhappy with the initial result that I came up with. In my CSS grid, I have a header that takes up the entire first row. Because of that, the second row of items sit aligned to the left (instead of centered) because of how grid works. There's not enough items on the second row as well, and it'll look better centered, so I need to do some manipulations on it. Probably make that specific section flex. I don't know yet, I've been sitting on this particular issue and messing with it and nothing has worked to my liking. I might take a step back for now and look at it again tomorrow.
 
+### Day 58: July 22, 2021
+#####
+
+**Today's Progress**: Submitted the PR I started yesterday, finished fso part 5 section d exercises
+
+**Thoughts:** I finally settled on just making media queries to make my PR work. It took a while, but taking a break actually helped clear my mind. I also finished with the cypress e2e testing exercise for fso. Interestingly, it actually uses jQuery for some of it's functionality, so that was a little foreign for me. In terms of usefulness when it comes to testing, it is probably more useful than frontend Jest, although it's always good to have multiple tests. I don't look forward to writing tests for future projects. The next part of fso is redux, so I'm excited for that.
+
+**Link to PR:** [#1999](https://github.com/hackforla/website/pull/1999)
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
