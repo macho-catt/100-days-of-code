@@ -353,6 +353,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Link to PR:** [#1999](https://github.com/hackforla/website/pull/1999)
 
+### Day 59: July 23, 2021
+#####
+
+**Today's Progress**: Started fso part 6, which is the redux section
+
+**Thoughts:** I'm excited in going over redux again. I learned about it briefly in freecodecamp, but for the most part I didn't really understand how to implement it with react apps. I still remember the theory of how it works, but I forgot how to implement it in code. Going over it again, it definitely makes more sense than before.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
