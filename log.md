@@ -360,6 +360,15 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 
 **Thoughts:** I'm excited in going over redux again. I learned about it briefly in freecodecamp, but for the most part I didn't really understand how to implement it with react apps. I still remember the theory of how it works, but I forgot how to implement it in code. Going over it again, it definitely makes more sense than before.
 
+
+### Day 60: July 24, 2021
+#####
+
+**Today's Progress**: Finished sections a and b of fso part 6 including the exercises
+
+**Thoughts:** Redux makes a lot of sense, especially in conjunction with React. The exercises I've been doing have been fairly simple so far, but they seem much easier to use than pure states in react. I wonder if those two are going to be combined on later sections, and if so how they're going to look.
+I've been brainstorming on some project ideas, and I have some, but I don't know yet if they're going to be difficult to implement.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
