@@ -369,6 +369,13 @@ I also attended the hfla meeting today, which took longer than expected. I need 
 **Thoughts:** Redux makes a lot of sense, especially in conjunction with React. The exercises I've been doing have been fairly simple so far, but they seem much easier to use than pure states in react. I wonder if those two are going to be combined on later sections, and if so how they're going to look.
 I've been brainstorming on some project ideas, and I have some, but I don't know yet if they're going to be difficult to implement.
 
+### Day 61: July 25, 2021
+#####
+
+**Today's Progress**: Finished section c of fso part 6 including exercises, learned thunk
+
+**Thoughts:** I finished section c, which mostly showed how to use asynchronous actions in redux, which is called thunk. I have one more section left, and I might consider making a smaller project that involves redux just so I am clear on how it works. I spent most of the day watching the olympics, which was fun, but also took up most of my time.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
