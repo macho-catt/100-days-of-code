@@ -376,6 +376,14 @@ I've been brainstorming on some project ideas, and I have some, but I don't know
 
 **Thoughts:** I finished section c, which mostly showed how to use asynchronous actions in redux, which is called thunk. I have one more section left, and I might consider making a smaller project that involves redux just so I am clear on how it works. I spent most of the day watching the olympics, which was fun, but also took up most of my time.
 
+### Day 64: July 28, 2021
+#####
+
+**Today's Progress**: Made a simple weather app as a prototype for my next project
+
+**Thoughts:** I took two days of break, but I did attend another hfla meeting yesterday. I finally decided what would be a fun first project. But as a prototype for it, I want to make a couple of smaller projects to build up to it. The first one is a simple weather app that takes your geolocation, uses the coordinates for that and makes a get request to openweathermap. It returns the temperature and weather for the given coordinates. At first I tried a bunch of different third party apis, but I settled on this one because it was simple to use, and the free option offered a lot of requests per minute. I didn't style the css for this one since I will go ham on the actual project. 
+The next things I want to do is a project to render a map using mapbox, and a project that uses NASA's api for wildfires. For now, I will keep the project I want to write a secret, but with the given info it should be easy to guess what I will make.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
