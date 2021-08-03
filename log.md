@@ -391,6 +391,13 @@ The next things I want to do is a project to render a map using mapbox, and a pr
 
 **Thoughts:** I attended the hfla backend meeting and we discussed refactoring js code for the site. It was actually pretty interesting, considering I've been mostly working on html and css and no js for the team. I'm excited to work on more js stuff after my PR. Speaking about my PR, I updated it to fix some visual issues. I also started looking into mapbox. I followed a quick tutorial on how to use it, and it looks so pretty. I'm excited in learning how to use it for my project.
 
+### Day 69: August 2, 2021
+#####
+
+**Today's Progress**: Learned about github actions, and started a new PR for hfla on implementing gh actions
+
+**Thoughts:** I took a couple days of break since I was getting pretty burnt out with coding. I just needed the weekend for myself. Which is good since I'm ready to tackle more coding stuff! I did read about some APIs regarding my planned project, so it wasn't a complete break. My last PR for hfla was also merged, so I took on a new issue. This time, it's related to github actions so I started learning about it and testing it.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
