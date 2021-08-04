@@ -403,7 +403,7 @@ The next things I want to do is a project to render a map using mapbox, and a pr
 
 **Today's Progress**: Opened a PR for a gh-action
 
-**Thoughts:** I finished the issue I was working on yesterday regarding implementing a gh action. Testing it was painful since I had to do multiple commits + creation of new issues on my fork. I saw a tool called nektos that supposedly lets you run and test gh actions locally, so I might look in to that.
+**Thoughts:** I finished the issue I was working on yesterday regarding implementing a gh action. Testing it was painful since I had to do multiple commits + creation of new issues on my fork. I saw a tool called act (repo from nektos) that supposedly lets you run and test gh actions locally, so I might look in to that.
 
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
