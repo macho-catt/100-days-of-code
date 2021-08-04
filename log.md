@@ -398,6 +398,13 @@ The next things I want to do is a project to render a map using mapbox, and a pr
 
 **Thoughts:** I took a couple days of break since I was getting pretty burnt out with coding. I just needed the weekend for myself. Which is good since I'm ready to tackle more coding stuff! I did read about some APIs regarding my planned project, so it wasn't a complete break. My last PR for hfla was also merged, so I took on a new issue. This time, it's related to github actions so I started learning about it and testing it.
 
+### Day 70: August 3, 2021
+#####
+
+**Today's Progress**: Opened a PR for a gh-action
+
+**Thoughts:** I finished the issue I was working on yesterday regarding implementing a gh action. Testing it was painful since I had to do multiple commits + creation of new issues on my fork. I saw a tool called nektos that supposedly lets you run and test gh actions locally, so I might look in to that.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
