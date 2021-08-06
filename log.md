@@ -405,6 +405,13 @@ The next things I want to do is a project to render a map using mapbox, and a pr
 
 **Thoughts:** I finished the issue I was working on yesterday regarding implementing a gh action. Testing it was painful since I had to do multiple commits + creation of new issues on my fork. I saw a tool called act (repo from nektos) that supposedly lets you run and test gh actions locally, so I might look in to that.
 
+### Day 71: August 4, 2021
+#####
+
+**Today's Progress**: Did a PR review, started the boilerplate for my project, read more stuff about the various APIs I will use
+
+**Thoughts:** I didn't really do much coidng today because I was pretty tired. I've been waking up early to cover for work, so I took a nap when I got home. For the most part, I just did a PR review and created the beginning for the project. The project will be an app that renders a map with the list of hikes a user wants to do. A hike will show the corresponding weather for the day / upcoming couple of days, and fire zone areas will be marked to show the user if the hike is in an area that is near a fire.
+
 ##  ##  ##  ##  ##  ##  ##
 **Useful Links**
 
